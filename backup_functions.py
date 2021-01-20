@@ -5,7 +5,8 @@ sad_words = ["sad", "depressed", "unhappy", "angry", "miserable"]
 starter_encouragements = [
   "Cheer up!",
   "Hang in there.",
-  "You are a great person / bot!"
+  "You are a great person / bot!",
+  "You got this!"
 ]
 
 vote = []
